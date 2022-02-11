@@ -4,7 +4,6 @@ a = 23
 b = 16
 print(a)
 print(a+b)
-
 print('hello')
 print('hello'+' how are you?')
 
